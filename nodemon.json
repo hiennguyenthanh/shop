@@ -1,0 +1,9 @@
+{
+  "env": {
+    "PORT": 3000,
+    "MONGO_USER": "hien",
+    "MONGO_PASSWORD": "enhLohCjm8Vk3hSP",
+    "MONGO_DB": "shop",
+    "SESSION_SECRET": "some secret"
+  }
+}
